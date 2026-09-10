@@ -26,27 +26,37 @@
 
 ```yaml
 who:
-  role: "AI & Data Science student"
-  base: "Kochi, Kerala, India"
+  name: "Alen John"
+  role: "B.Tech student — Artificial Intelligence & Data Science"
+  college: "Muthoot Institute of Technology and Science (MITS), Kochi, Kerala"
 
-now_building:
-  flagship: "Chrimatos — multi-agent due-diligence pipeline for US equities"
-  stack: [LangGraph, Gemini, Alpha Vantage, FastAPI, caching + audit trails]
+interests:
+  - intelligent systems & agents
+  - full-stack web development
+  - data science & analytics
+  - modern UI/UX design
 
-now_learning:            # 13-week sprints, weekly checkpoints
-  - probability & statistics
+current_focus:
+  - multi-agent AI pipelines (LangGraph + Gemini)
+  - RAG, embeddings & retrieval systems
+  - production FastAPI services
+  - data structures & quantitative reasoning
+
+currently_learning:
+  - probability, statistics & linear algebra
   - market mechanics & portfolio theory
-  - music theory (piano + voice)
 
-next_up:
-  - automation pipelines that reclaim real hours
-  - design fundamentals
-  - economics (micro → macro)
+goal: >-
+  become a skilled AI Engineer who builds products with real impact —
+  while cultivating breadth across math, philosophy, business and craft.
 ```
 
 <br>
 
 ## ⚙️ Core Stack
+
+<div align="center">
+
 
 **Backend & AI**
 
@@ -84,7 +94,6 @@ next_up:
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
 
 
 <br>
