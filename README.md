@@ -13,9 +13,9 @@ Building AI systems that turn raw data into decisions. Currently deep in multi-a
 | Project | What it does |
 |---------|-------------|
 | [Chrimatos — Financial Risk Analyser](https://github.com/CrescentState/Financial-Risk-Analyser) | Multi-agent AI pipeline producing structured due-diligence briefs for US equities |
-| RTO Risk Scorer | Deterministic risk scoring engine |
-| Knowledge Base API | Retrieval backend serving structured knowledge |
-| Sentiment Analysis | News sentiment extraction with structured LLM output |
+| [RTO Risk Scorer](https://github.com/CrescentState/RTO-Risk-Scorer) | Deterministic risk scoring engine |
+| [Knowledge Base API](https://github.com/CrescentState/Knowledge-base-api) | Retrieval backend serving structured knowledge |
+| [Sentiment Analysis](https://github.com/CrescentState/Sentiment-Analysis) | News sentiment extraction with structured LLM output |
 
 ## Now
 
