@@ -48,55 +48,48 @@ next_up:
 
 ## ⚙️ Core Stack
 
-<div align="center">
-
 **Backend & AI**
 
-| | | |
-|---|---|---|
-| `Python` | `FastAPI` | `LangGraph` |
-| `Gemini API` | `pgvector` | `sentence-transformers` |
-| `scikit-learn` | `Pydantic` | `Docker` |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlebard&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence_transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Frontend**
 
-| | | |
-|---|---|---|
-| `TypeScript` | `JavaScript` | `React` |
-| `Next.js` | `Tailwind` | `Three.js / R3F` |
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js / R3F](https://img.shields.io/badge/Three.js/R3F-049EF4?style=flat-square&logo=threedotjs&logoColor=white)
 
 **Data & Infra**
 
-| | | |
-|---|---|---|
-| `PostgreSQL` | `MongoDB` | `Node.js / Express` |
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 **Languages**
 
-| | | |
-|---|---|---|
-| `Python` | `TypeScript` | `JavaScript` |
-| `HTML/CSS` | `SQL` | `Jupyter` |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-</div>
 
-
-<br>
-
-## 🚀 Selected Builds
-
-<div align="center">
-
-| | Project | The one-liner |
-|---|---------|---------------|
-| 🧠 | **[Chrimatos](https://github.com/CrescentState/Financial-Risk-Analyser)** | 4-agent AI pipeline → structured due-diligence brief for any US ticker, with audit trails |
-| 📊 | **[RTO Risk Scorer](https://github.com/CrescentState/RTO-Risk-Scorer)** | Deterministic, explainable risk scoring — no black box |
-| 🔎 | **[Knowledge Base API](https://github.com/CrescentState/Knowledge-base-api)** | Retrieval backend that serves structured knowledge for Q&A |
-| 📰 | **[Sentiment Analysis](https://github.com/CrescentState/Sentiment-Analysis)** | News sentiment extraction with structured LLM output |
-
-</div>
 
 <br>
+
+## 🚀 Analytics
 
 <div align="center">
 
