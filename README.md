@@ -74,8 +74,6 @@ next_up:
 | 🔎 | **[Knowledge Base API](https://github.com/CrescentState/Knowledge-base-api)** | Retrieval backend that serves structured knowledge for Q&A |
 | 📰 | **[Sentiment Analysis](https://github.com/CrescentState/Sentiment-Analysis)** | News sentiment extraction with structured LLM output |
 
-🔗 **[Chrimatos is live →](https://financial-risk-analyser.onrender.com/)**
-
 </div>
 
 <br>
