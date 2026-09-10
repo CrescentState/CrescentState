@@ -96,6 +96,8 @@ goal: >-
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 
+</div>
+
 <br>
 
 ## 🚀 Analytics
