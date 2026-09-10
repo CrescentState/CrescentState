@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  AL E N  J O H N  ·  profile · handcrafted, not templated       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img width="100%" src="./assets/banner.svg" alt="Alen John — AI & Data Science Student · Agent Builder · Kochi"/>
 
 <div align="center">
@@ -80,10 +76,9 @@ next_up:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CrescentState&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percentile" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=CrescentState&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percentile" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CrescentState&theme=github_dark&hide_border=true" />
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=CrescentState&theme=github-dark&area=true&hide_border=true" />
 
 </div>
 
