@@ -2,14 +2,15 @@
 <!-- AL E N J O H N · profile · handcrafted, not templated -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width=“100%” src=“https://capsule-render.vercel.app/api?type=transparent&height=220&section=header&text=✦ Alen John ✦&fontSize=64&fontAlignY=38&desc=AI Systems · Quant Finance · Automation&descSize=20&descAlignY=55&stroke=58a6ff&strokeWidth=1&fill=0D1117,58a6ff” />
+<img width=“100%” src=“https://capsule-render.vercel.app/api?type=transparent&height=220&section=header&text=✦ Alen John ✦&fontSize=64&fontAlignY=38&desc=AI %26 Data Science Student · Agent Builder&descSize=20&descAlignY=55&stroke=58a6ff&strokeWidth=1&fill=0D1117,58a6ff” />
 
 <div align=“center”>
 
 Building agents that read the market. Learning everything else on the side.
 
 <img src=“https://komarev.com/ghpvc/?username=CrescentState&label=Visitors&color=58a6ff&style=for-the-badge” />
-<img src=“https://img.shields.io/badge/Status-Sipping Chai%2C Shipping Code-d29922?style=for-the-badge&logo=telegram&logoColor=d29922” />
+<img src=“https://img.shields.io/badge/AI %26 Data Science-Student-58a6ff?style=for-the-badge&logo=googlecloud&logoColor=58a6ff” />
+<img src=“https://img.shields.io/badge/📍Kochi,-Kerala-8b949e?style=for-the-badge” />
 
 </div>
 
@@ -25,6 +26,10 @@ Most profiles list skills. This one shows a direction — I’m assembling compe
 <br>
 
 🎯 The Direction
+who:
+  role: "AI & Data Science student"
+  base: "Kochi, Kerala, India"
+
 now_building:
   flagship: "Chrimatos — multi-agent due-diligence pipeline for US equities"
   stack: [LangGraph, Gemini, Alpha Vantage, FastAPI, caching + audit trails]
@@ -45,7 +50,6 @@ next_up:
 
 Python	TypeScript	JavaScript
 FastAPI	Node.js	React
-MongoDB	LangGraph	Gemini API
 </div>
 
 <br>
@@ -78,8 +82,8 @@ Project	The one-liner
 📬 Reach Me
 <div align=“center”>
 
-<a href=“mailto:YOUR-EMAIL”><img src=“https://img.shields.io/badge/Email-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=21262d” alt=“email”/></a>  
-<a href=“https://linkedin.com/in/YOUR-LINKEDIN”><img src=“https://img.shields.io/badge/LinkedIn-58a6ff?style=flat-square&logo=linkedin&logoColor=white&labelColor=21262d” alt=“linkedin”/></a>  
+<a href="mailto:alenjohn6573@gmail.com"><img src=“https://img.shields.io/badge/alenjohn6573@gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=21262d” alt=“email”/></a>  
+<a href=“https://www.linkedin.com/in/alenjohn-d/”><img src=“https://img.shields.io/badge/LinkedIn-58a6ff?style=flat-square&logo=linkedin&logoColor=white&labelColor=21262d” alt=“linkedin”/></a>  
 <a href=“https://github.com/CrescentState”><img src=“https://img.shields.io/badge/GitHub-58a6ff?style=flat-square&logo=github&logoColor=white&labelColor=21262d” alt=“github”/></a>
 
 </div>
