@@ -50,12 +50,36 @@ next_up:
 
 <div align="center">
 
+**Backend & AI**
+
+| | | |
+|---|---|---|
+| `Python` | `FastAPI` | `LangGraph` |
+| `Gemini API` | `pgvector` | `sentence-transformers` |
+| `scikit-learn` | `Pydantic` | `Docker` |
+
+**Frontend**
+
+| | | |
+|---|---|---|
+| `TypeScript` | `JavaScript` | `React` |
+| `Next.js` | `Tailwind` | `Three.js / R3F` |
+
+**Data & Infra**
+
+| | | |
+|---|---|---|
+| `PostgreSQL` | `MongoDB` | `Node.js / Express` |
+
+**Languages**
+
 | | | |
 |---|---|---|
 | `Python` | `TypeScript` | `JavaScript` |
-| `FastAPI` | `Node.js` | `React` |
+| `HTML/CSS` | `SQL` | `Jupyter` |
 
 </div>
+
 
 <br>
 
