@@ -52,6 +52,7 @@ next_up:
 
 **Backend & AI**
 
+| | | |
 |---|---|---|
 | `Python` | `FastAPI` | `LangGraph` |
 | `Gemini API` | `pgvector` | `sentence-transformers` |
@@ -59,17 +60,20 @@ next_up:
 
 **Frontend**
 
+| | | |
 |---|---|---|
 | `TypeScript` | `JavaScript` | `React` |
 | `Next.js` | `Tailwind` | `Three.js / R3F` |
 
 **Data & Infra**
 
+| | | |
 |---|---|---|
 | `PostgreSQL` | `MongoDB` | `Node.js / Express` |
 
 **Languages**
 
+| | | |
 |---|---|---|
 | `Python` | `TypeScript` | `JavaScript` |
 | `HTML/CSS` | `SQL` | `Jupyter` |
