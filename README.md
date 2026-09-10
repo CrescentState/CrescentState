@@ -2,7 +2,7 @@
 <!--  AL E N  J O H N  ·  profile · handcrafted, not templated       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=220&section=header&text=%E2%9C%A6%20Alen%20John%20%E2%9C%A6&fontSize=64&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%C2%B7%20Agent%20Builder&descSize=20&descAlignY=55&stroke=58a6ff&strokeWidth=1&fill=0D1117,58a6ff" />
+<img width="100%" src="./assets/banner.svg" alt="Alen John — AI & Data Science Student · Agent Builder · Kochi"/>
 
 <div align="center">
 
@@ -85,7 +85,7 @@ next_up:
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CrescentState&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percentile" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CrescentState&theme=github_dark&hide_border=true" />
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=CrescentState&theme=github-dark&area=true&hide_border=true&areaColor=58a6ff33" />
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=CrescentState&theme=github-dark&area=true&hide_border=true" />
 
 </div>
 
@@ -103,4 +103,4 @@ next_up:
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&section=footer&text=dissect%20%CE%BB%20synthesize%20%CE%BB%20ship&fontSize=26&fontAlignY=65&stroke=58a6ff&strokeWidth=1&fill=0D1117,58a6ff" />
+<img width="100%" src="./assets/footer.svg" alt="dissect · synthesize · ship"/>
