@@ -4,7 +4,7 @@
 
 **Building agents that read the market. Learning everything else on the side.**
 
-<img src="https://komarev.com/ghpvc/?username=CrescentState&label=Visitors&color=58a6ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=CrescentState&label=Visits&color=58a6ff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-58a6ff?style=for-the-badge&logo=googlecloud&logoColor=58a6ff" />
 <img src="https://img.shields.io/badge/📍Kochi,-Kerala-8b949e?style=for-the-badge" />
 
