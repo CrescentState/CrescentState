@@ -103,11 +103,14 @@ goal: >-
 ## 🚀 Analytics
 
 <div align="center">
-
-<img width="48%" src="https://github-stats-extended.vercel.app/api?username=CrescentState&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percentile" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CrescentState&theme=github-dark-blue&timezone=%2B5%3A30" alt="GitHub Streak" /></a>
-
+  <a href="https://github.com/CrescentState">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=CrescentState&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percentile" alt="GitHub stats" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="165" src="https://streak-stats.demolab.com?user=CrescentState&theme=github-dark-blue&timezone=%2B5%3A30" alt="GitHub streak" />
+  </a>
 </div>
+
 
 <br>
 
