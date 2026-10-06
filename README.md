@@ -57,45 +57,42 @@ goal: >-
 
 <div align="center">
 
-
 **Backend & AI**
 
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>&nbsp;
-<a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></a>&nbsp;
-<a href="https://langchain-ai.github.io/langgraph/"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" /></a>&nbsp;
-<a href="https://ai.google.dev/docs"><img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlebard&logoColor=white" alt="Gemini API" /></a>&nbsp;
-<a href="https://github.com/pgvector/pgvector"><img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" /></a>&nbsp;
-<a href="https://sbert.net"><img src="https://img.shields.io/badge/sentence_transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="sentence-transformers" /></a>&nbsp;
-<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /></a>&nbsp;
-<a href="https://docs.pydantic.dev"><img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" /></a>&nbsp;
-<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
-
+<a href="https://www.python.org" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>&nbsp;
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></a>&nbsp;
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" /></a>&nbsp;
+<a href="https://ai.google.dev/docs" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlebard&logoColor=white" alt="Gemini API" /></a>&nbsp;
+<a href="https://github.com/pgvector/pgvector" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" /></a>&nbsp;
+<a href="https://sbert.net" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/sentence_transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="sentence-transformers" /></a>&nbsp;
+<a href="https://scikit-learn.org" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /></a>&nbsp;
+<a href="https://docs.pydantic.dev" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" /></a>&nbsp;
+<a href="https://www.docker.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js / R3F](https://img.shields.io/badge/Three.js/R3F-049EF4?style=flat-square&logo=threedotjs&logoColor=white)
+<a href="https://www.typescriptlang.org" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>&nbsp;
+<a href="https://react.dev" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>&nbsp;
+<a href="https://nextjs.org" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>&nbsp;
+<a href="https://tailwindcss.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /></a>&nbsp;
+<a href="https://r3f.docs.pmnd.rs" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Three.js/R3F-049EF4?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js / R3F" /></a>
 
 **Data & Infra**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+<a href="https://www.postgresql.org" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>&nbsp;
+<a href="https://www.mongodb.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></a>&nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>&nbsp;
+<a href="https://expressjs.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /></a>
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
+<a href="https://www.python.org" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>&nbsp;
+<a href="https://www.typescriptlang.org" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" /></a>&nbsp;
+<a href="https://www.postgresql.org" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /></a>&nbsp;
+<a href="https://jupyter.org" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /></a>
 
 </div>
 
